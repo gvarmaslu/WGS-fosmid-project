@@ -1,17 +1,19 @@
 
-Whole Genome Sequencing (WGS) of fosmid data analysis
-===
+### Whole Genome Sequencing (WGS) of fosmid data analysis
 
-This workflow was developed on linux environment, before running these scripts one should install all dependent packages/software and adopt working environment paths
-======
 
-* 1.0 Run script for Cleaning and QC1
+##### This workflow was developed on linux environment, before running these scripts one should install all dependent packages/software and adopt working environment paths
+
+
+> 1.0 
+* Run script for Cleaning and QC1
 
 ```
 bash Run-WGS_1.0_QC.sh > Run-WGS_1.0_QC.sh.log 2>&1
 ```
 
-* 2.0 Mapped with Ecoli and processed un-mapped reads for assembly.
+> 2.0 
+* Mapped with Ecoli and processed un-mapped reads for assembly.
 
 ```
 bash Run-WGS_2.0_Align-ecoli-assembly.sh > Run-WGS_2.0_Align-ecoli-assembly.sh.log 2>&1
