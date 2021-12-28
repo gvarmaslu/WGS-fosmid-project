@@ -3,6 +3,7 @@ Whole Genome Sequencing (WGS) of fosmid data analysis
 ===
 
 This workflow was developed on linux environment, before running these scripts one should install all dependent packages/software and adopt working environment paths
+
 ---
 
 1.0 Run script for Cleaning and QC1
