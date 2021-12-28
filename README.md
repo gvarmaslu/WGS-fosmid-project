@@ -59,13 +59,13 @@ bash Run-WGS_4.1_Pars-annotation_run.sh > Run-WGS_4.1_Pars-annotation_run.sh.log
 * Taxonomic classicfication with Kraken2 and visualization with Krona
 
 ```
-bash Run-WGS_5.1_kraken2.sh > Run-WGS_5.1_kraken2.sh.log 2>&1
+bash Run-WGS_5.0_kraken2.sh > Run-WGS_5.0_kraken2.sh.log 2>&1
 ```
 
 > 5.1 
 * PFAM and KEGG analysis
 
 ```
-bash Run-WGS_5.2_pfam-KEGG_annotation.sh > Run-WGS_5.2_pfam-KEGG_annotation.sh.log 2>&1
+bash Run-WGS_5.1_pfam-KEGG_annotation.sh > Run-WGS_5.1_pfam-KEGG_annotation.sh.log 2>&1
 ```
 
