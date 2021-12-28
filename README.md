@@ -13,13 +13,13 @@ bash Run-WGS_1.0_QC.sh > Run-WGS_1.0_QC.sh.log 2>&1
 ```
 
 > 2.0 
-* Mapped with Ecoli and processed un-mapped reads for assembly.
+* Mapped with Ecoli and processed un-mapped reads for assembly
 
 ```
 bash Run-WGS_2.0_Align-ecoli-assembly.sh > Run-WGS_2.0_Align-ecoli-assembly.sh.log 2>&1
 ```
 
-* 2.1 De-novo assembly made with SPAdes "metaplasmid" algorithm 
+> 2.1 De-novo assembly made with SPAdes "metaplasmid" algorithm 
 
 ```
 bash Run-WGS_2.1_assembly-plasmid-metaplasmid.sh > Run-WGS_2.1_assembly-plasmid-metaplasmid.sh.log 2>&1
