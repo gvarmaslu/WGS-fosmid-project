@@ -27,7 +27,7 @@ qr=${SN}"_pep.fa"
 
 NCBIBLAST="/bioinfo/BLAST/ncbi-blast-2.9.0+/bin/"
 
-#create DB
+#create BLAST-DB before running the blast search 
 #$NCBIBLAST/makeblastdb -in /REF/CAZyDB/CAZyDB.07292021.fa -out /REF/CAZyDB/CAZyDB.07292021 -input_type fasta -dbtype prot
 
 ######################
