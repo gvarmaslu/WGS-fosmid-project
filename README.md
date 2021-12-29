@@ -6,6 +6,15 @@
 
 
 > 1.0 
+* Copy this project to your local directory and access script directory
+
+```
+git clone https://github.com/gvarmaslu/WGS-fosmid-project
+
+cd WGS-fosmid-project/scripts/
+
+```
+
 * Run script for Cleaning and QC1
 
 ```
